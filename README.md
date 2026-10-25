@@ -13,13 +13,17 @@ I'm particularly interested in **Open-Source Intelligence (OSINT), AI Security, 
 
 ## 💻 Projects
 
+## Projects
+
 I'm building a collection of practical projects to demonstrate my skills and apply what I learn.
 
-| **Project**                                                         | **Description**                                                                                                                                                          | **Status**  |
-| ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------- |
-| [OSINT Investigation Lab](projects/operation-ghost-trace/README.md) | A simulated OSINT investigation demonstrating timeline reconstruction, digital evidence correlation, metadata analysis, hypothesis testing, and investigative reporting. | Completed   |
-| AI Security Research                                                | Exploring AI security vulnerabilities and defensive techniques.                                                                                                          | Planned     |
-| Cybersecurity Lab Write-ups                                         | Documenting practical exercises and lessons learned from cybersecurity training.                                                                                         | In Progress |
+| **Project**                                                                                                           | **Description**                                                                                                                                                                              | **Status**  |
+| --------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
+| [OSINT Investigation Lab](projects/operation-ghost-trace/README.md)                                                   | A simulated OSINT investigation demonstrating timeline reconstruction, digital evidence correlation, metadata analysis, hypothesis testing, and investigative reporting.                     | Completed   |
+| [Insider Threat Tabletop Assessment](projects/cybersecurity-lab-writeups/tabletop-exercises/insider-threat/README.md) | An independent assessment based on an NCSC tabletop exercise, covering insider threats, incident investigation, access controls, removable media, risk assessment, and remediation planning. | Completed   |
+| AI Security Research                                                                                                  | Exploring AI security vulnerabilities and defensive techniques.                                                                                                                              | Planned     |
+| Cybersecurity Lab Write-ups                                                                                           | Documenting practical exercises and lessons learned from cybersecurity training.                                                                                                             | In Progress |
+
 
 More projects will be added as they are completed.
 
